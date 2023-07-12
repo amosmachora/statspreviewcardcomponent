@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/statspreviewcardcomponent/static/css/main.849c9a25.css",
+    "main.js": "/statspreviewcardcomponent/static/js/main.684a4cca.js",
+    "static/media/image-header-desktop.jpg": "/statspreviewcardcomponent/static/media/image-header-desktop.72d6e2a00c9131c7b6a6.jpg",
+    "index.html": "/statspreviewcardcomponent/index.html",
+    "main.849c9a25.css.map": "/statspreviewcardcomponent/static/css/main.849c9a25.css.map",
+    "main.684a4cca.js.map": "/statspreviewcardcomponent/static/js/main.684a4cca.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.849c9a25.css",
+    "static/js/main.684a4cca.js"
+  ]
+}
